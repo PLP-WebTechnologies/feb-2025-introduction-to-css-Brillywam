@@ -1,0 +1,38 @@
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.highlight {
+    color: #e74c3c;
+    font-size: 24px;
+    padding: 10px;
+    border: 2px solid #e74c3c;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+#main-image {
+    display: block;
+    margin: 0 auto;
+    border: 5px solid #3498db;
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 30px;
+    padding: 15px;
+    background-color: #2c3e50;
+    color: white;
+}
